@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan Baysal</h1>
-<h3 align="center">A passionate 3rd year computer engineering student</h3>
+<h3 align="center">A passionate 4th year computer engineering student</h3>
 
 
 - 🌱 I’m currently learning **Java, Asp .Net Framework, Machine Learning**
